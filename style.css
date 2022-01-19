@@ -1,0 +1,52 @@
+body {
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+/* header {
+    width: fit-content;
+    margin: auto;
+} */
+
+h1 {
+    text-decoration: overline 1px;
+    margin-top: 0px;
+    /* text-align: center; */
+    font-size: 75px;
+    font-weight: 400;
+}
+
+
+#description {
+
+    margin-top: -25px;
+    font-size: 26px;
+}
+
+/* div {
+    width: fit-content;
+    height: auto;
+    margin-left: 340px;
+    text-align: left;
+
+} */
+
+label{
+    font-size: 20px;
+}
+
+
+.form1 {
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+#username {
+    border-color: lightblue;
+    border-style: solid;
+}
+
+.options {
+    font-size: 15px;
+}
